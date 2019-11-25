@@ -5,14 +5,18 @@ The script also needs you to input the number of pages on the gui that you want 
 Please note that the larger the number of pages it needs to scrape, the longer it will take.
 "udemy coupon output.xlsx" will be created in the same directory as the script with a click of a button.
 
+
+
 # What is the purpose of the project? 
-The purpose of this project is to showcase my skillset in the form of short tech demos. Most of my software development work is within corporations in which I am not allow to showcase my work.
+The purpose of this project (and other projects in my GitHub) is to showcase my skillset in the form of short tech demos. Most of my software development work is within corporations in which I am not allow to showcase my work.
 
 In this tech demo, I am showcasing my skillset in the use of beautifulsoup and selenium to mine and scrape data from the internet as well as utilizing tkinter in creating graphical user interface for Python programs.
 
 In my work in the corporate environment, I utilize this skillset in creating tools for users to collect data for data analytics purpose in a friendly and effective user interface.
 
 
+# How to run
+Simply download all the files in this repository and run udscrape.py
 
 
 
