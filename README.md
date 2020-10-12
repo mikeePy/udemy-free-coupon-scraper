@@ -1,4 +1,6 @@
-# udemy-free-coupon-scraper
+# udemy-free-coupon-scraper (Discontinued)
+Note: The sources that this script is pulling from does not accept new submissions anymore. As such this scraper is discontinued.
+
 This short script is use to scrape the free udemy coupons from learnviral.com using selenium headless browser and output as an excel xlsx file in the same directory.
 You will need beautiful soup, tkinter, openpyxl and selenium to run this script.
 The script also needs you to input the number of pages on the gui that you want to scrape.
